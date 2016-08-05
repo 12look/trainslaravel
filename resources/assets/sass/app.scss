@@ -1,0 +1,64 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+#home {
+	&:before {
+		content: "";
+		position: fixed;
+		left: 0;
+		right: 0;
+		z-index: -1;
+
+		display: block;
+		background: url("/imgs/rails.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		height: 750px;
+
+		-webkit-filter: blur(5px);
+		-moz-filter: blur(5px);
+		-o-filter: blur(5px);
+		-ms-filter: blur(5px);
+		filter: blur(5px);
+	}
+	.input-group-addon {
+		color: white;
+		font-size: 22px;
+	}
+	#inputWhen {
+		margin-left: 14px;
+	}
+
+	thead tr {
+		background-color: inherit;
+	}
+
+	.table th {
+		color: white;
+	}
+
+	tr {
+		text-align: left;
+		background-color: white;
+		color: #333;
+	}
+	h3 {
+		color: white;
+	}
+
+	height: 750px;
+	padding-top: 100px;
+}
+
+.content {
+	padding: 15% 0 0;
+
+	h3 {
+		color: white;
+	}
+	input.form-control, input.form-control::placeholder {
+		font-size: 22px;
+		color: white;
+	}
+}
