@@ -1,4 +1,4 @@
-<img src="http://www.picshare.ru/uploads/160907/R29X6rDIeI.png" border="0" width="1847" height="925" title="Main page screen">
+<img src="http://www.picshare.ru/uploads/160907/R29X6rDIeI.png" border="0" width="800" title="Main page screen">
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
