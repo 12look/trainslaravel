@@ -1,4 +1,6 @@
-<img src="http://www.picshare.ru/uploads/160907/R29X6rDIeI.png" border="0" width="800" title="Main page screen">
+
+## Screenshot: <a href="https://yadi.sk/i/w5cS7MzH3NvUB5">Link</a>
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
